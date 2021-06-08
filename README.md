@@ -2,6 +2,6 @@
 
 This is a project for learning git!!
 
-## SUbheader
+## Subheader
 
 Watch tutorial on Youtube.
